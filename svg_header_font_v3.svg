@@ -1,5 +1,5 @@
 <svg viewBox="0 0 640 908" width="640" height="908" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
-  <g id="group" class="ob_daily" data-fontpath="fonts/caveat_brush_regular.ttf,fonts/elmessiri_semibold.ttf" data-text-color="#423535">
+  <g id="group" class="ob_daily" data-fontpath="fonts/caveat_brush_regular.ttf,fonts/elmessiri_semibold.ttf," data-text-color="#423535">
     <g id="BOX">
       <path fill="#303030" d="M620,796c4.96,0,9,4.04,9,9v83c0,4.96-4.04,9-9,9H20c-4.96,0-9-4.04-9-9v-83c0-4.96,4.04-9,9-9H620 M620,795H20c-5.52,0-10,4.48-10,10v83c0,5.52,4.48,10,10,10h600c5.52,0,10-4.48,10-10v-83C630,799.48,625.52,795,620,795L620,795z "></path>
     </g>
